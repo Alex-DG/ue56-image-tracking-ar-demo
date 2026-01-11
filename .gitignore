@@ -1,0 +1,39 @@
+# Visual Studio
+*.sln
+*.suo
+*.opensdf
+*.sdf
+*.VC.db
+*.opendb
+.vs/
+
+# Visual Studio Code
+.vscode/
+
+# Unreal Engine
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Include/
+
+# Android Local Properties
+local.properties
+
+# Android Build
+.gradle/
+build/
+captures/
+.externalNativeBuild/
+.cxx/
+*.apk
+*.ap_
+*.aab
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Xcode
+*.xcodeproj
+*.xcworkspace
